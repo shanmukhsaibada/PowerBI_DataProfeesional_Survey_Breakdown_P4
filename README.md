@@ -47,4 +47,4 @@ Cleaning & Transformation:
 - Visual breakdown of programming preferences, salaries, and job satisfaction metrics.  
 
 ## Dashboard Preview  
-![Data Professional Survey Dashboard](dataanalystjob.PNG)  
+![Data Professional Survey Dashboard](datasurvey.PNG)  
